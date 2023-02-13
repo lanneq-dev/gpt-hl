@@ -3,7 +3,7 @@
 
 Complete the dependencies:
 ```
-npm i
+npm i gpt-hl
 ```
 
 Create a gpt.js file and add you openai API_KEY
