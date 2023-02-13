@@ -1,0 +1,23 @@
+{
+  "name": "gpt_terminal",
+  "version": "1.0.0",
+  "description": "chat GPT in linux terminal",
+  "main": "gpt.js",
+  "homepage": "",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "lanneq, Ruslan Nurgaleev",
+    "email": "lanneq.dev@gmail.com",
+    "url": "https://t.me/lanneq"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "openai": "^3.1.0"
+  }
+}
