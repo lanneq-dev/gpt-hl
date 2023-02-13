@@ -1,11 +1,11 @@
 {
-  "name": "gpt_terminal",
+  "name": "gpt-hl",
   "version": "1.0.0",
   "description": "chat GPT in linux terminal",
   "main": "gpt.js",
-  "homepage": "",
+  "homepage": "https://github.com/lanneq-dev/gpt-hl",
   "repository": {
-    "url": ""
+    "url": "https://github.com/lanneq-dev/gpt-hl"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

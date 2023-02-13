@@ -19,4 +19,6 @@ Run file from terminal
 node gpt.js
 ```
 
-Now you can use terminal for chatting with chatGPT.
+Now you can use terminal for chatting with chatGPT
+
+![Alt Text](giphy.gif)
