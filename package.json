@@ -1,9 +1,10 @@
 {
   "name": "gpt-hl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "chat GPT in linux terminal",
   "main": "gpt-hl.js",
   "homepage": "https://github.com/lanneq-dev/gpt-hl",
+  "keywords": ["openai", "terminal", "chatGPT", "help to code", "ai", "linux"],
   "repository": {
     "type": "git",
     "url": "https://github.com/lanneq-dev/gpt-hl"

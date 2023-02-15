@@ -1,5 +1,5 @@
-import { Configuration, OpenAIApi } from "openai";
-import colors from "colors";
+const { Configuration, OpenAIApi } =  require("openai");
+const colors = require("colors");
 
 class Search {
   constructor(key) {
@@ -30,4 +30,4 @@ class Search {
   }
 }
 
-export default { Search };
+module.exports = { Search };
