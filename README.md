@@ -1,6 +1,8 @@
 # This is a chatgpt helper for those who like to work only from the terminal and don't want to switch to a browser.
 
-[gpt-hl](https://www.npmjs.com/package/gpt-hl)
+[[gpt-hl](https://www.npmjs.com/package/gpt-hl)](https://www.npmjs.com/package/gpt-hl)
+
+
 Complete the dependencies:
 ```
 npm i gpt-hl
